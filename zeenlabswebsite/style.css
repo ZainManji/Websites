@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: rgb(256, 256, 256);
+}
+
+.header {
+  height: 20vh;
+  width: 100%;
+}
+
+.main {
+  height: 70vh;
+  width: 100%;
+  background: rgb(256, 256, 256);
+}
+
+.footer {
+  height: 10vh;
+  width: 100%;
+}
+
+.title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 5vh;
+  text-align: center;
+}

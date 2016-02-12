@@ -9,30 +9,36 @@ html, body {
 .header {
   height: 20vh;
   width: 100%;
+    position: relative;
 }
 
 .main {
   height: 70vh;
   width: 100%;
   background: rgb(256, 256, 256);
+    position: relative;
 }
 
 .footer {
   height: 10vh;
   width: 100%;
   background: white;
+    position: relative;
 }
 
 .app {
-  border: 1px solid black;
-  border-radius: 20px;
-  width: 35vh;
-  display: block;
+/*  border: 1px solid black;*/
+/*  border-radius: 20px;*/
+/*    position: relative;*/
+  width: 30%;
+    display: inline-block;
+/*  display: inline-block;*/
   padding-top: 5px;
   padding-bottom: 5px;
-  margin-right: auto;
-  margin-left: auto;
-  background: rgb(230, 250, 250);
+/*    margin: 0  auto;*/
+/*  margin-right: auto;*/
+/*  margin-left: auto;*/
+/*  background: rgb(230, 250, 250);*/
 }
 
 .title {
